@@ -1,8 +1,27 @@
 @charset "UTF-8";
 /* CSS Document */
 body{
-	background-color:#96ff59;
+	background-color:#222222;
 	color:white;
+}
+
+.port-list{
+	color:black;
+	
+}
+.port-btn{
+	margin-top:2em;
+	margin-bottom:2em;
+}
+
+.btn{
+	width:50%;
+	height:auto;
+	font-size:3em;
+	background-color:red;
+	color:black;
+	border-color:black;
+	border-bottom-width: 2px;
 }
 
 
